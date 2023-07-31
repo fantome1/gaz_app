@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "523009851660",
+    "project_id": "fangre-88927",
+    "storage_bucket": "fangre-88927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523009851660:android:3c5c18831a6a11e52d4929",
+        "android_client_info": {
+          "package_name": "com.example.gaz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523009851660-aotbtiso1pqjia4mjkiqvkfnp1nvhju5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSLrG-9qP3_ANMboCbDkqi7hjya2ejxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523009851660-aotbtiso1pqjia4mjkiqvkfnp1nvhju5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523009851660-mkrok53bvgtiv1rd88i549nhjjpihlpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gazApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
